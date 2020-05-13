@@ -269,6 +269,14 @@ footer {
   MENU             
 -----------------------------------------*/
 
+.navbar-brand {
+  background-image: url("../images/fff-font.png");
+  width: 300px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat;
+}
+
 .custom-navbar {
   margin-bottom: 0;
   background-color: #4dc47d;
